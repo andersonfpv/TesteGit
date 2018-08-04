@@ -1,0 +1,6 @@
+C:\Users\Anderson\source\repos\Resto2\Resto2\bin\Debug\Resto2.exe.config
+C:\Users\Anderson\source\repos\Resto2\Resto2\bin\Debug\Resto2.exe
+C:\Users\Anderson\source\repos\Resto2\Resto2\bin\Debug\Resto2.pdb
+C:\Users\Anderson\source\repos\Resto2\Resto2\obj\Debug\Resto2.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\Resto2\Resto2\obj\Debug\Resto2.exe
+C:\Users\Anderson\source\repos\Resto2\Resto2\obj\Debug\Resto2.pdb

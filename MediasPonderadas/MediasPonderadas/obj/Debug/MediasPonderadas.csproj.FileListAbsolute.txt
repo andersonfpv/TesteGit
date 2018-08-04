@@ -1,0 +1,7 @@
+C:\Users\Anderson\source\repos\MediasPonderadas\MediasPonderadas\bin\Debug\MediasPonderadas.exe.config
+C:\Users\Anderson\source\repos\MediasPonderadas\MediasPonderadas\bin\Debug\MediasPonderadas.exe
+C:\Users\Anderson\source\repos\MediasPonderadas\MediasPonderadas\bin\Debug\MediasPonderadas.pdb
+C:\Users\Anderson\source\repos\MediasPonderadas\MediasPonderadas\obj\Debug\MediasPonderadas.csprojAssemblyReference.cache
+C:\Users\Anderson\source\repos\MediasPonderadas\MediasPonderadas\obj\Debug\MediasPonderadas.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\MediasPonderadas\MediasPonderadas\obj\Debug\MediasPonderadas.exe
+C:\Users\Anderson\source\repos\MediasPonderadas\MediasPonderadas\obj\Debug\MediasPonderadas.pdb

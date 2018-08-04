@@ -1,0 +1,7 @@
+c:\users\anderson\source\repos\TiposDeTriangulo\TiposDeTriangulo\bin\Debug\TiposDeTriangulo.exe.config
+c:\users\anderson\source\repos\TiposDeTriangulo\TiposDeTriangulo\bin\Debug\TiposDeTriangulo.exe
+c:\users\anderson\source\repos\TiposDeTriangulo\TiposDeTriangulo\bin\Debug\TiposDeTriangulo.pdb
+c:\users\anderson\source\repos\TiposDeTriangulo\TiposDeTriangulo\obj\Debug\TiposDeTriangulo.csprojAssemblyReference.cache
+c:\users\anderson\source\repos\TiposDeTriangulo\TiposDeTriangulo\obj\Debug\TiposDeTriangulo.csproj.CoreCompileInputs.cache
+c:\users\anderson\source\repos\TiposDeTriangulo\TiposDeTriangulo\obj\Debug\TiposDeTriangulo.exe
+c:\users\anderson\source\repos\TiposDeTriangulo\TiposDeTriangulo\obj\Debug\TiposDeTriangulo.pdb

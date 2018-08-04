@@ -1,0 +1,7 @@
+C:\Users\Anderson\source\repos\QuadradoDePares\QuadradoDePares\bin\Debug\QuadradoDePares.exe.config
+C:\Users\Anderson\source\repos\QuadradoDePares\QuadradoDePares\bin\Debug\QuadradoDePares.exe
+C:\Users\Anderson\source\repos\QuadradoDePares\QuadradoDePares\bin\Debug\QuadradoDePares.pdb
+C:\Users\Anderson\source\repos\QuadradoDePares\QuadradoDePares\obj\Debug\QuadradoDePares.csprojAssemblyReference.cache
+C:\Users\Anderson\source\repos\QuadradoDePares\QuadradoDePares\obj\Debug\QuadradoDePares.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\QuadradoDePares\QuadradoDePares\obj\Debug\QuadradoDePares.exe
+C:\Users\Anderson\source\repos\QuadradoDePares\QuadradoDePares\obj\Debug\QuadradoDePares.pdb

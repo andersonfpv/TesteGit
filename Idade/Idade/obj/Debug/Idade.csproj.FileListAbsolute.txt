@@ -1,0 +1,7 @@
+C:\Users\Anderson\source\repos\Idade\Idade\bin\Debug\Idade.exe.config
+C:\Users\Anderson\source\repos\Idade\Idade\bin\Debug\Idade.exe
+C:\Users\Anderson\source\repos\Idade\Idade\bin\Debug\Idade.pdb
+C:\Users\Anderson\source\repos\Idade\Idade\obj\Debug\Idade.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\Idade\Idade\obj\Debug\Idade.exe
+C:\Users\Anderson\source\repos\Idade\Idade\obj\Debug\Idade.pdb
+C:\Users\Anderson\source\repos\Idade\Idade\obj\Debug\Idade.csprojAssemblyReference.cache

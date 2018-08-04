@@ -1,0 +1,7 @@
+C:\Users\Anderson\source\repos\ValidacaoDaNota\ValidacaoDaNota\bin\Debug\ValidacaoDaNota.exe.config
+C:\Users\Anderson\source\repos\ValidacaoDaNota\ValidacaoDaNota\bin\Debug\ValidacaoDaNota.exe
+C:\Users\Anderson\source\repos\ValidacaoDaNota\ValidacaoDaNota\bin\Debug\ValidacaoDaNota.pdb
+C:\Users\Anderson\source\repos\ValidacaoDaNota\ValidacaoDaNota\obj\Debug\ValidacaoDaNota.csprojAssemblyReference.cache
+C:\Users\Anderson\source\repos\ValidacaoDaNota\ValidacaoDaNota\obj\Debug\ValidacaoDaNota.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\ValidacaoDaNota\ValidacaoDaNota\obj\Debug\ValidacaoDaNota.exe
+C:\Users\Anderson\source\repos\ValidacaoDaNota\ValidacaoDaNota\obj\Debug\ValidacaoDaNota.pdb

@@ -1,0 +1,7 @@
+C:\Users\Anderson\source\repos\Funcionario\Funcionario\bin\Debug\Funcionario.exe.config
+C:\Users\Anderson\source\repos\Funcionario\Funcionario\bin\Debug\Funcionario.exe
+C:\Users\Anderson\source\repos\Funcionario\Funcionario\bin\Debug\Funcionario.pdb
+C:\Users\Anderson\source\repos\Funcionario\Funcionario\obj\Debug\Funcionario.csprojAssemblyReference.cache
+C:\Users\Anderson\source\repos\Funcionario\Funcionario\obj\Debug\Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\Funcionario\Funcionario\obj\Debug\Funcionario.exe
+C:\Users\Anderson\source\repos\Funcionario\Funcionario\obj\Debug\Funcionario.pdb

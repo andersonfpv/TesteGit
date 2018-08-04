@@ -1,0 +1,7 @@
+C:\Users\Anderson\source\repos\QuadradoEAoCubo\QuadradoEAoCubo\bin\Debug\QuadradoEAoCubo.exe.config
+C:\Users\Anderson\source\repos\QuadradoEAoCubo\QuadradoEAoCubo\bin\Debug\QuadradoEAoCubo.exe
+C:\Users\Anderson\source\repos\QuadradoEAoCubo\QuadradoEAoCubo\bin\Debug\QuadradoEAoCubo.pdb
+C:\Users\Anderson\source\repos\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\QuadradoEAoCubo.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\QuadradoEAoCubo.exe
+C:\Users\Anderson\source\repos\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\QuadradoEAoCubo.pdb
+C:\Users\Anderson\source\repos\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\QuadradoEAoCubo.csprojAssemblyReference.cache

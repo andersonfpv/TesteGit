@@ -1,0 +1,7 @@
+C:\Users\Anderson\source\repos\Intervalo2\Intervalo2\bin\Debug\Intervalo2.exe.config
+C:\Users\Anderson\source\repos\Intervalo2\Intervalo2\bin\Debug\Intervalo2.exe
+C:\Users\Anderson\source\repos\Intervalo2\Intervalo2\bin\Debug\Intervalo2.pdb
+C:\Users\Anderson\source\repos\Intervalo2\Intervalo2\obj\Debug\Intervalo2.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\Intervalo2\Intervalo2\obj\Debug\Intervalo2.exe
+C:\Users\Anderson\source\repos\Intervalo2\Intervalo2\obj\Debug\Intervalo2.pdb
+C:\Users\Anderson\source\repos\Intervalo2\Intervalo2\obj\Debug\Intervalo2.csprojAssemblyReference.cache

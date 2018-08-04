@@ -1,0 +1,6 @@
+C:\Users\Anderson\source\repos\SequenciaS2\SequenciaS2\bin\Debug\SequenciaS2.exe.config
+C:\Users\Anderson\source\repos\SequenciaS2\SequenciaS2\bin\Debug\SequenciaS2.exe
+C:\Users\Anderson\source\repos\SequenciaS2\SequenciaS2\bin\Debug\SequenciaS2.pdb
+C:\Users\Anderson\source\repos\SequenciaS2\SequenciaS2\obj\Debug\SequenciaS2.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\SequenciaS2\SequenciaS2\obj\Debug\SequenciaS2.exe
+C:\Users\Anderson\source\repos\SequenciaS2\SequenciaS2\obj\Debug\SequenciaS2.pdb

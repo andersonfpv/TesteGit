@@ -1,0 +1,7 @@
+c:\users\anderson\source\repos\Exercicio1043\Exercicio1043\bin\Debug\Exercicio1043.exe.config
+c:\users\anderson\source\repos\Exercicio1043\Exercicio1043\bin\Debug\Exercicio1043.exe
+c:\users\anderson\source\repos\Exercicio1043\Exercicio1043\bin\Debug\Exercicio1043.pdb
+c:\users\anderson\source\repos\Exercicio1043\Exercicio1043\obj\Debug\Exercicio1043.csprojAssemblyReference.cache
+c:\users\anderson\source\repos\Exercicio1043\Exercicio1043\obj\Debug\Exercicio1043.csproj.CoreCompileInputs.cache
+c:\users\anderson\source\repos\Exercicio1043\Exercicio1043\obj\Debug\Exercicio1043.exe
+c:\users\anderson\source\repos\Exercicio1043\Exercicio1043\obj\Debug\Exercicio1043.pdb

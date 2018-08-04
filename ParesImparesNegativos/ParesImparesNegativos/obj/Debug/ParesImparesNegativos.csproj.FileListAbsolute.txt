@@ -1,0 +1,6 @@
+C:\Users\Anderson\source\repos\ParesImparesNegativos\ParesImparesNegativos\bin\Debug\ParesImparesNegativos.exe.config
+C:\Users\Anderson\source\repos\ParesImparesNegativos\ParesImparesNegativos\bin\Debug\ParesImparesNegativos.exe
+C:\Users\Anderson\source\repos\ParesImparesNegativos\ParesImparesNegativos\bin\Debug\ParesImparesNegativos.pdb
+C:\Users\Anderson\source\repos\ParesImparesNegativos\ParesImparesNegativos\obj\Debug\ParesImparesNegativos.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\ParesImparesNegativos\ParesImparesNegativos\obj\Debug\ParesImparesNegativos.exe
+C:\Users\Anderson\source\repos\ParesImparesNegativos\ParesImparesNegativos\obj\Debug\ParesImparesNegativos.pdb

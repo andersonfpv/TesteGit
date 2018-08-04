@@ -1,0 +1,7 @@
+C:\Users\Anderson\source\repos\DivisoresI\DivisoresI\bin\Debug\DivisoresI.exe.config
+C:\Users\Anderson\source\repos\DivisoresI\DivisoresI\bin\Debug\DivisoresI.exe
+C:\Users\Anderson\source\repos\DivisoresI\DivisoresI\bin\Debug\DivisoresI.pdb
+C:\Users\Anderson\source\repos\DivisoresI\DivisoresI\obj\Debug\DivisoresI.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\DivisoresI\DivisoresI\obj\Debug\DivisoresI.exe
+C:\Users\Anderson\source\repos\DivisoresI\DivisoresI\obj\Debug\DivisoresI.pdb
+C:\Users\Anderson\source\repos\DivisoresI\DivisoresI\obj\Debug\DivisoresI.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+c:\users\anderson\source\repos\SequenciaDeNumerosESoma\SequenciaDeNumerosESoma\bin\Debug\SequenciaDeNumerosESoma.exe.config
+c:\users\anderson\source\repos\SequenciaDeNumerosESoma\SequenciaDeNumerosESoma\bin\Debug\SequenciaDeNumerosESoma.exe
+c:\users\anderson\source\repos\SequenciaDeNumerosESoma\SequenciaDeNumerosESoma\bin\Debug\SequenciaDeNumerosESoma.pdb
+c:\users\anderson\source\repos\SequenciaDeNumerosESoma\SequenciaDeNumerosESoma\obj\Debug\SequenciaDeNumerosESoma.csprojAssemblyReference.cache
+c:\users\anderson\source\repos\SequenciaDeNumerosESoma\SequenciaDeNumerosESoma\obj\Debug\SequenciaDeNumerosESoma.csproj.CoreCompileInputs.cache
+c:\users\anderson\source\repos\SequenciaDeNumerosESoma\SequenciaDeNumerosESoma\obj\Debug\SequenciaDeNumerosESoma.exe
+c:\users\anderson\source\repos\SequenciaDeNumerosESoma\SequenciaDeNumerosESoma\obj\Debug\SequenciaDeNumerosESoma.pdb

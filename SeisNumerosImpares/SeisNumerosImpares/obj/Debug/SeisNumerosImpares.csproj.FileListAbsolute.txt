@@ -1,0 +1,6 @@
+C:\Users\Anderson\source\repos\SeisNumerosImpares\SeisNumerosImpares\bin\Debug\SeisNumerosImpares.exe.config
+C:\Users\Anderson\source\repos\SeisNumerosImpares\SeisNumerosImpares\bin\Debug\SeisNumerosImpares.exe
+C:\Users\Anderson\source\repos\SeisNumerosImpares\SeisNumerosImpares\bin\Debug\SeisNumerosImpares.pdb
+C:\Users\Anderson\source\repos\SeisNumerosImpares\SeisNumerosImpares\obj\Debug\SeisNumerosImpares.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\SeisNumerosImpares\SeisNumerosImpares\obj\Debug\SeisNumerosImpares.exe
+C:\Users\Anderson\source\repos\SeisNumerosImpares\SeisNumerosImpares\obj\Debug\SeisNumerosImpares.pdb

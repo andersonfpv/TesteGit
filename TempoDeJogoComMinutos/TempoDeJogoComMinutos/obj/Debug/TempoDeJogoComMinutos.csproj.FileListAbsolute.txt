@@ -1,0 +1,7 @@
+c:\users\anderson\source\repos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\bin\Debug\TempoDeJogoComMinutos.exe.config
+c:\users\anderson\source\repos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\bin\Debug\TempoDeJogoComMinutos.exe
+c:\users\anderson\source\repos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\bin\Debug\TempoDeJogoComMinutos.pdb
+c:\users\anderson\source\repos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\TempoDeJogoComMinutos.csprojAssemblyReference.cache
+c:\users\anderson\source\repos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\TempoDeJogoComMinutos.csproj.CoreCompileInputs.cache
+c:\users\anderson\source\repos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\TempoDeJogoComMinutos.exe
+c:\users\anderson\source\repos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\TempoDeJogoComMinutos.pdb

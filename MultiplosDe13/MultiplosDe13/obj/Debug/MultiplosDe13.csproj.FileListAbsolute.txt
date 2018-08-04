@@ -1,0 +1,7 @@
+C:\Users\Anderson\source\repos\MultiplosDe13\MultiplosDe13\bin\Debug\MultiplosDe13.exe.config
+C:\Users\Anderson\source\repos\MultiplosDe13\MultiplosDe13\bin\Debug\MultiplosDe13.exe
+C:\Users\Anderson\source\repos\MultiplosDe13\MultiplosDe13\bin\Debug\MultiplosDe13.pdb
+C:\Users\Anderson\source\repos\MultiplosDe13\MultiplosDe13\obj\Debug\MultiplosDe13.csprojAssemblyReference.cache
+C:\Users\Anderson\source\repos\MultiplosDe13\MultiplosDe13\obj\Debug\MultiplosDe13.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\MultiplosDe13\MultiplosDe13\obj\Debug\MultiplosDe13.exe
+C:\Users\Anderson\source\repos\MultiplosDe13\MultiplosDe13\obj\Debug\MultiplosDe13.pdb

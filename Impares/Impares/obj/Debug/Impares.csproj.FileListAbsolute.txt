@@ -1,0 +1,7 @@
+C:\Users\Anderson\source\repos\Impares\Impares\bin\Debug\Impares.exe.config
+C:\Users\Anderson\source\repos\Impares\Impares\bin\Debug\Impares.exe
+C:\Users\Anderson\source\repos\Impares\Impares\bin\Debug\Impares.pdb
+C:\Users\Anderson\source\repos\Impares\Impares\obj\Debug\Impares.csprojAssemblyReference.cache
+C:\Users\Anderson\source\repos\Impares\Impares\obj\Debug\Impares.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\Impares\Impares\obj\Debug\Impares.exe
+C:\Users\Anderson\source\repos\Impares\Impares\obj\Debug\Impares.pdb

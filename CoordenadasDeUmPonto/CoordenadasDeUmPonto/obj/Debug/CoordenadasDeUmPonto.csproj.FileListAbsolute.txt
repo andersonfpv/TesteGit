@@ -1,0 +1,7 @@
+C:\Users\Anderson\source\repos\CoordenadasDeUmPonto\CoordenadasDeUmPonto\bin\Debug\CoordenadasDeUmPonto.exe.config
+C:\Users\Anderson\source\repos\CoordenadasDeUmPonto\CoordenadasDeUmPonto\bin\Debug\CoordenadasDeUmPonto.exe
+C:\Users\Anderson\source\repos\CoordenadasDeUmPonto\CoordenadasDeUmPonto\bin\Debug\CoordenadasDeUmPonto.pdb
+C:\Users\Anderson\source\repos\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\CoordenadasDeUmPonto.csprojAssemblyReference.cache
+C:\Users\Anderson\source\repos\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\CoordenadasDeUmPonto.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\CoordenadasDeUmPonto.exe
+C:\Users\Anderson\source\repos\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\CoordenadasDeUmPonto.pdb

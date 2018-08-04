@@ -1,0 +1,7 @@
+C:\Users\Anderson\source\repos\Experiencias\Experiencias\bin\Debug\Experiencias.exe.config
+C:\Users\Anderson\source\repos\Experiencias\Experiencias\bin\Debug\Experiencias.exe
+C:\Users\Anderson\source\repos\Experiencias\Experiencias\bin\Debug\Experiencias.pdb
+C:\Users\Anderson\source\repos\Experiencias\Experiencias\obj\Debug\Experiencias.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\Experiencias\Experiencias\obj\Debug\Experiencias.exe
+C:\Users\Anderson\source\repos\Experiencias\Experiencias\obj\Debug\Experiencias.pdb
+C:\Users\Anderson\source\repos\Experiencias\Experiencias\obj\Debug\Experiencias.csprojAssemblyReference.cache

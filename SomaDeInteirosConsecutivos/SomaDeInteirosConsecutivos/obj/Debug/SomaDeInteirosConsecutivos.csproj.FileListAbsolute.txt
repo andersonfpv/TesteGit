@@ -1,0 +1,7 @@
+C:\Users\Anderson\source\repos\SomaDeInteirosConsecutivos\SomaDeInteirosConsecutivos\bin\Debug\SomaDeInteirosConsecutivos.exe.config
+C:\Users\Anderson\source\repos\SomaDeInteirosConsecutivos\SomaDeInteirosConsecutivos\bin\Debug\SomaDeInteirosConsecutivos.exe
+C:\Users\Anderson\source\repos\SomaDeInteirosConsecutivos\SomaDeInteirosConsecutivos\bin\Debug\SomaDeInteirosConsecutivos.pdb
+C:\Users\Anderson\source\repos\SomaDeInteirosConsecutivos\SomaDeInteirosConsecutivos\obj\Debug\SomaDeInteirosConsecutivos.csprojAssemblyReference.cache
+C:\Users\Anderson\source\repos\SomaDeInteirosConsecutivos\SomaDeInteirosConsecutivos\obj\Debug\SomaDeInteirosConsecutivos.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\SomaDeInteirosConsecutivos\SomaDeInteirosConsecutivos\obj\Debug\SomaDeInteirosConsecutivos.exe
+C:\Users\Anderson\source\repos\SomaDeInteirosConsecutivos\SomaDeInteirosConsecutivos\obj\Debug\SomaDeInteirosConsecutivos.pdb

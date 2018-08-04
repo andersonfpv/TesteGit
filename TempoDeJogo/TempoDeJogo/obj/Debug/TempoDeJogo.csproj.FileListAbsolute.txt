@@ -1,0 +1,7 @@
+c:\users\anderson\source\repos\TempoDeJogo\TempoDeJogo\bin\Debug\TempoDeJogo.exe.config
+c:\users\anderson\source\repos\TempoDeJogo\TempoDeJogo\bin\Debug\TempoDeJogo.exe
+c:\users\anderson\source\repos\TempoDeJogo\TempoDeJogo\bin\Debug\TempoDeJogo.pdb
+c:\users\anderson\source\repos\TempoDeJogo\TempoDeJogo\obj\Debug\TempoDeJogo.csprojAssemblyReference.cache
+c:\users\anderson\source\repos\TempoDeJogo\TempoDeJogo\obj\Debug\TempoDeJogo.csproj.CoreCompileInputs.cache
+c:\users\anderson\source\repos\TempoDeJogo\TempoDeJogo\obj\Debug\TempoDeJogo.exe
+c:\users\anderson\source\repos\TempoDeJogo\TempoDeJogo\obj\Debug\TempoDeJogo.pdb

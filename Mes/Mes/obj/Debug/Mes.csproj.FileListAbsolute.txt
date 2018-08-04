@@ -1,0 +1,7 @@
+c:\users\anderson\source\repos\Mes\Mes\bin\Debug\Mes.exe.config
+c:\users\anderson\source\repos\Mes\Mes\bin\Debug\Mes.exe
+c:\users\anderson\source\repos\Mes\Mes\bin\Debug\Mes.pdb
+c:\users\anderson\source\repos\Mes\Mes\obj\Debug\Mes.csprojAssemblyReference.cache
+c:\users\anderson\source\repos\Mes\Mes\obj\Debug\Mes.csproj.CoreCompileInputs.cache
+c:\users\anderson\source\repos\Mes\Mes\obj\Debug\Mes.exe
+c:\users\anderson\source\repos\Mes\Mes\obj\Debug\Mes.pdb

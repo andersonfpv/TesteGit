@@ -1,0 +1,6 @@
+C:\Users\Anderson\source\repos\SomaDosImparesConsecutivos\SomaDosImparesConsecutivos\bin\Debug\SomaDosImparesConsecutivos.exe.config
+C:\Users\Anderson\source\repos\SomaDosImparesConsecutivos\SomaDosImparesConsecutivos\bin\Debug\SomaDosImparesConsecutivos.exe
+C:\Users\Anderson\source\repos\SomaDosImparesConsecutivos\SomaDosImparesConsecutivos\bin\Debug\SomaDosImparesConsecutivos.pdb
+C:\Users\Anderson\source\repos\SomaDosImparesConsecutivos\SomaDosImparesConsecutivos\obj\Debug\SomaDosImparesConsecutivos.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\SomaDosImparesConsecutivos\SomaDosImparesConsecutivos\obj\Debug\SomaDosImparesConsecutivos.exe
+C:\Users\Anderson\source\repos\SomaDosImparesConsecutivos\SomaDosImparesConsecutivos\obj\Debug\SomaDosImparesConsecutivos.pdb

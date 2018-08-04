@@ -1,0 +1,7 @@
+C:\Users\Anderson\source\repos\ExercicioMatriz1\ExercicioMatriz1\bin\Debug\ExercicioMatriz1.exe.config
+C:\Users\Anderson\source\repos\ExercicioMatriz1\ExercicioMatriz1\bin\Debug\ExercicioMatriz1.exe
+C:\Users\Anderson\source\repos\ExercicioMatriz1\ExercicioMatriz1\bin\Debug\ExercicioMatriz1.pdb
+C:\Users\Anderson\source\repos\ExercicioMatriz1\ExercicioMatriz1\obj\Debug\ExercicioMatriz1.csprojAssemblyReference.cache
+C:\Users\Anderson\source\repos\ExercicioMatriz1\ExercicioMatriz1\obj\Debug\ExercicioMatriz1.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\ExercicioMatriz1\ExercicioMatriz1\obj\Debug\ExercicioMatriz1.exe
+C:\Users\Anderson\source\repos\ExercicioMatriz1\ExercicioMatriz1\obj\Debug\ExercicioMatriz1.pdb

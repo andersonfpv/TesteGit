@@ -1,0 +1,7 @@
+c:\users\anderson\source\repos\Media3\Media3\bin\Debug\Media3.exe.config
+c:\users\anderson\source\repos\Media3\Media3\bin\Debug\Media3.exe
+c:\users\anderson\source\repos\Media3\Media3\bin\Debug\Media3.pdb
+c:\users\anderson\source\repos\Media3\Media3\obj\Debug\Media3.csprojAssemblyReference.cache
+c:\users\anderson\source\repos\Media3\Media3\obj\Debug\Media3.csproj.CoreCompileInputs.cache
+c:\users\anderson\source\repos\Media3\Media3\obj\Debug\Media3.exe
+c:\users\anderson\source\repos\Media3\Media3\obj\Debug\Media3.pdb

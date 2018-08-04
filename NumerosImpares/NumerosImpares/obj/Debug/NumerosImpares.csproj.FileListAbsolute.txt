@@ -1,0 +1,7 @@
+C:\Users\Anderson\source\repos\NumerosImpares\NumerosImpares\bin\Debug\NumerosImpares.exe.config
+C:\Users\Anderson\source\repos\NumerosImpares\NumerosImpares\bin\Debug\NumerosImpares.exe
+C:\Users\Anderson\source\repos\NumerosImpares\NumerosImpares\bin\Debug\NumerosImpares.pdb
+C:\Users\Anderson\source\repos\NumerosImpares\NumerosImpares\obj\Debug\NumerosImpares.csprojAssemblyReference.cache
+C:\Users\Anderson\source\repos\NumerosImpares\NumerosImpares\obj\Debug\NumerosImpares.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\NumerosImpares\NumerosImpares\obj\Debug\NumerosImpares.exe
+C:\Users\Anderson\source\repos\NumerosImpares\NumerosImpares\obj\Debug\NumerosImpares.pdb

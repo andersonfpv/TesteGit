@@ -1,0 +1,7 @@
+c:\users\anderson\source\repos\ImpostoDeRenda2\ImpostoDeRenda2\bin\Debug\ImpostoDeRenda2.exe.config
+c:\users\anderson\source\repos\ImpostoDeRenda2\ImpostoDeRenda2\bin\Debug\ImpostoDeRenda2.exe
+c:\users\anderson\source\repos\ImpostoDeRenda2\ImpostoDeRenda2\bin\Debug\ImpostoDeRenda2.pdb
+c:\users\anderson\source\repos\ImpostoDeRenda2\ImpostoDeRenda2\obj\Debug\ImpostoDeRenda2.csprojAssemblyReference.cache
+c:\users\anderson\source\repos\ImpostoDeRenda2\ImpostoDeRenda2\obj\Debug\ImpostoDeRenda2.csproj.CoreCompileInputs.cache
+c:\users\anderson\source\repos\ImpostoDeRenda2\ImpostoDeRenda2\obj\Debug\ImpostoDeRenda2.exe
+c:\users\anderson\source\repos\ImpostoDeRenda2\ImpostoDeRenda2\obj\Debug\ImpostoDeRenda2.pdb

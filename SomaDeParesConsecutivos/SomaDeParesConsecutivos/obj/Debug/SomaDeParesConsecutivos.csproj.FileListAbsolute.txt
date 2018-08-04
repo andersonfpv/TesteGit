@@ -1,0 +1,7 @@
+C:\Users\Anderson\source\repos\SomaDeParesConsecutivos\SomaDeParesConsecutivos\bin\Debug\SomaDeParesConsecutivos.exe.config
+C:\Users\Anderson\source\repos\SomaDeParesConsecutivos\SomaDeParesConsecutivos\bin\Debug\SomaDeParesConsecutivos.exe
+C:\Users\Anderson\source\repos\SomaDeParesConsecutivos\SomaDeParesConsecutivos\bin\Debug\SomaDeParesConsecutivos.pdb
+C:\Users\Anderson\source\repos\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\SomaDeParesConsecutivos.csprojAssemblyReference.cache
+C:\Users\Anderson\source\repos\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\SomaDeParesConsecutivos.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\SomaDeParesConsecutivos.exe
+C:\Users\Anderson\source\repos\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\SomaDeParesConsecutivos.pdb

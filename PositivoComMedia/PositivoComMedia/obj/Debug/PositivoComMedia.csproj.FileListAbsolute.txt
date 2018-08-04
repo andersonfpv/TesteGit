@@ -1,0 +1,7 @@
+C:\Users\Anderson\source\repos\PositivoComMedia\PositivoComMedia\bin\Debug\PositivoComMedia.exe.config
+C:\Users\Anderson\source\repos\PositivoComMedia\PositivoComMedia\bin\Debug\PositivoComMedia.exe
+C:\Users\Anderson\source\repos\PositivoComMedia\PositivoComMedia\bin\Debug\PositivoComMedia.pdb
+C:\Users\Anderson\source\repos\PositivoComMedia\PositivoComMedia\obj\Debug\PositivoComMedia.csprojAssemblyReference.cache
+C:\Users\Anderson\source\repos\PositivoComMedia\PositivoComMedia\obj\Debug\PositivoComMedia.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\PositivoComMedia\PositivoComMedia\obj\Debug\PositivoComMedia.exe
+C:\Users\Anderson\source\repos\PositivoComMedia\PositivoComMedia\obj\Debug\PositivoComMedia.pdb

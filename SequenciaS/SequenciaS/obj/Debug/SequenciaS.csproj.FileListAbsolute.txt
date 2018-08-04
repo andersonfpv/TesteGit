@@ -1,0 +1,7 @@
+C:\Users\Anderson\source\repos\SequenciaS\SequenciaS\bin\Debug\SequenciaS.exe.config
+C:\Users\Anderson\source\repos\SequenciaS\SequenciaS\bin\Debug\SequenciaS.exe
+C:\Users\Anderson\source\repos\SequenciaS\SequenciaS\bin\Debug\SequenciaS.pdb
+C:\Users\Anderson\source\repos\SequenciaS\SequenciaS\obj\Debug\SequenciaS.csprojAssemblyReference.cache
+C:\Users\Anderson\source\repos\SequenciaS\SequenciaS\obj\Debug\SequenciaS.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\SequenciaS\SequenciaS\obj\Debug\SequenciaS.exe
+C:\Users\Anderson\source\repos\SequenciaS\SequenciaS\obj\Debug\SequenciaS.pdb

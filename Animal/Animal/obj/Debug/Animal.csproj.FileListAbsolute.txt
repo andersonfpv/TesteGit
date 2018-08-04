@@ -1,0 +1,7 @@
+c:\users\anderson\source\repos\Animal\Animal\bin\Debug\Animal.exe.config
+c:\users\anderson\source\repos\Animal\Animal\bin\Debug\Animal.exe
+c:\users\anderson\source\repos\Animal\Animal\bin\Debug\Animal.pdb
+c:\users\anderson\source\repos\Animal\Animal\obj\Debug\Animal.csprojAssemblyReference.cache
+c:\users\anderson\source\repos\Animal\Animal\obj\Debug\Animal.csproj.CoreCompileInputs.cache
+c:\users\anderson\source\repos\Animal\Animal\obj\Debug\Animal.exe
+c:\users\anderson\source\repos\Animal\Animal\obj\Debug\Animal.pdb

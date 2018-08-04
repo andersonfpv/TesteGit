@@ -1,0 +1,7 @@
+C:\Users\Anderson\source\repos\TipoDeCombustivel\TipoDeCombustivel\bin\Debug\TipoDeCombustivel.exe.config
+C:\Users\Anderson\source\repos\TipoDeCombustivel\TipoDeCombustivel\bin\Debug\TipoDeCombustivel.exe
+C:\Users\Anderson\source\repos\TipoDeCombustivel\TipoDeCombustivel\bin\Debug\TipoDeCombustivel.pdb
+C:\Users\Anderson\source\repos\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\TipoDeCombustivel.csprojAssemblyReference.cache
+C:\Users\Anderson\source\repos\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\TipoDeCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\TipoDeCombustivel.exe
+C:\Users\Anderson\source\repos\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\TipoDeCombustivel.pdb

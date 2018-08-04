@@ -1,0 +1,6 @@
+C:\Users\Anderson\source\repos\IntroducaoPoo\IntroducaoPoo\bin\Debug\IntroducaoPoo.exe.config
+C:\Users\Anderson\source\repos\IntroducaoPoo\IntroducaoPoo\bin\Debug\IntroducaoPoo.exe
+C:\Users\Anderson\source\repos\IntroducaoPoo\IntroducaoPoo\bin\Debug\IntroducaoPoo.pdb
+C:\Users\Anderson\source\repos\IntroducaoPoo\IntroducaoPoo\obj\Debug\IntroducaoPoo.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\IntroducaoPoo\IntroducaoPoo\obj\Debug\IntroducaoPoo.exe
+C:\Users\Anderson\source\repos\IntroducaoPoo\IntroducaoPoo\obj\Debug\IntroducaoPoo.pdb
